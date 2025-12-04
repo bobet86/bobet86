@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobet86
 - 👀 I’m interested in hardware and software
 - 🌱 I’m currently learning computer technician
-- 💞️  How to reach me  josephhw.tk
+- 💞️  How to reach me  josephhw
 
 <!---
 bobet86/bobet86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
